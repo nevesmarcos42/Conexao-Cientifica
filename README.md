@@ -13,6 +13,13 @@ Linguagem de Progrmalçao Python
 
 Autores
 
+Caio Henrique Lopes Mendes 
+
+( https://github.com/CH-dev48 )
+
+Guilherme Augusto Maciel de Souza
+
+( https://github.com/Guilhesouza )
 
 Marcos Aurélio Neves
 
