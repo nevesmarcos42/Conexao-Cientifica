@@ -14,8 +14,10 @@ Linguagem de Progrmalçao Python
 Autores
 
 
-Marcos Aurélio Neves 
-Marcos Vinicius de Aquino Ferreira
+Marcos Aurélio Neves
 
 ( https://github.com/nevesmarcos42 )
+
+Marcos Vinicius de Aquino Ferreira
+
 ( https://github.com/marvita-ferreira )
