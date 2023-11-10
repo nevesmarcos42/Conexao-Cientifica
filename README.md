@@ -7,7 +7,7 @@ A aplicação consiste em oferecer recursos abrangentes para cadastros de pesqui
 Tecnologias utilizadas
 
 Processo interno
-Linguagem Python
+Linguagem de Progrmalçao Python
 
 Autores
 Marcos Aurélio Neves 
