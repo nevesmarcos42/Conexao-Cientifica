@@ -8,9 +8,11 @@ Tecnologias utilizadas
 
 Processo interno
 
+
 Linguagem de Progrmalçao Python
 
 Autores
+
 
 Marcos Aurélio Neves 
 
